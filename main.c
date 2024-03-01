@@ -4,7 +4,7 @@ int main (int argc, char **argv)
 {
         printf ("Hello github !\n");
         printf ("I am a hello-world project for github!\n");
-        printf("This branch is develop!");
+        printf("This branch is develop!\n");
 
         return 0;
 } /* ----- End of main() ----- */
